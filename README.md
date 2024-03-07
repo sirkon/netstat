@@ -1,2 +1,8 @@
-This package is a copy of [netstat](https://github.com/BishopFox/sliver/tree/master/implant/sliver/netstat) package from https://github.com/bishopfox/sliver preserving its MIT licence
-as it was allowed in the source project.
+## go-netstat / Sliver
+
+A modified version of https://github.com/cakturk/go-netstat, modifications have been made for interoperability with the rest of Sliver:
+* Added Darwin support
+* Data structures have been ported to protobuf
+
+
+
